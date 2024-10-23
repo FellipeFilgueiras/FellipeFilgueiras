@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FellipeFilgueiras
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Backend and Cloud Computing
+- 🌱 I’m currently learning Backend and DevOps
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: fellipefilgueiras@outlook.com.br
 
