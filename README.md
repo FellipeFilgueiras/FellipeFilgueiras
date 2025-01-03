@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FellipeFilgueiras
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning .NET, Front and DevOps
+- 🌱 I’m currently learning .NET and DevOps
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me: fellipefilgueiras@outlook.com.br
 
